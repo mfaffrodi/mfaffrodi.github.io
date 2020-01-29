@@ -28,11 +28,11 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+lang: "id"
+author: "Muhamad Fajar Affrodi"
+title: "{ MF Affrodi }"
+description: "Blog and website of Muhamad Fajar Affrodi, blogging mainly for tech and life means. Opinions expressed are mine."
+keywords: "muhamad, fajar, affrodi, muhamad fajar, muhamad fajar affrodi, pencerahan, tausiyah, taubat"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Cukuplah sebuah nasihat, untuk yang bernyawa itu kematian"
+  - text: "Cukuplah tipu dan Muslihat, nikmat waktu luang dan kesehatan"
 
 me-img: "/img/jetpacktocat.png"
 
