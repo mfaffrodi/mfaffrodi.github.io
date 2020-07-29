@@ -31,19 +31,6 @@
   
     
       <url>
-        <loc>http://localhost:4000/blog/</loc>
-        
-          
-          
-          
-          <priority>1.0</priority>
-          
-        
-       </url>
-    
-  
-    
-      <url>
         <loc>http://localhost:4000/</loc>
         
           
@@ -70,7 +57,29 @@
     
   
     
+      <url>
+        <loc>http://localhost:4000/blog/index.html</loc>
+        
+          
+          
+          
+          <priority>1.</priority>
+          
+        
+       </url>
+    
   
+    
+  
+  
+    <url>
+      <loc>http://localhost:4000/mfaffrodi.github.io/aboutme/2020/07/29/About.html</loc>
+      
+        <lastmod>2020-07-29T00:00:00+07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
   
     <url>
       <loc>http://localhost:4000/mfaffrodi.github.io/tech/2020/01/29/Blog-baru-teknologi-baru-coba.html</loc>
