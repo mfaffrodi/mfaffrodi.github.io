@@ -87,7 +87,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-paginate
-  jekyll-paginate-v2
   jemoji
 
 BUNDLED WITH

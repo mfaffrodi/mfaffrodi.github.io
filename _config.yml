@@ -163,15 +163,17 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/muhamad.fajar71"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/muhamadfajar89"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/mfaffrodi/mfaffrodi.github.io"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/muhamadfajar/"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+#  - title: "rss"
+#    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -183,7 +185,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: mfajar89
 keybase-in-social: True
 keybase-in-footer: True
 
