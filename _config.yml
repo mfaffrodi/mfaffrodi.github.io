@@ -109,8 +109,6 @@ enable-gesture-navigation: True
 
 post-preview-words: 96
 
-# paginate: 5
-
 email-share: True
 fb-share: True
 twitter-share: True
@@ -206,7 +204,7 @@ pages_list:
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
-# paginate_path: "blog/page:num/"
+paginate_path: "blog/page:num/"
 
 # Enable minification SASS
 
@@ -216,14 +214,14 @@ sass:
 gems: [jekyll-paginate-v2, jemoji]
 
 # Explicitly turn off the old code
-# paginate: 10
+paginate: 10
 
 # Pagination Settings
-pagination:
-  enabled: true
-  per_page: 3
-  permalink: 'blog/page:num/'
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+# pagination:
+#   enabled: true
+#   per_page: 3
+#   permalink: 'blog/page:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
